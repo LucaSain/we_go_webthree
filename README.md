@@ -1,4 +1,4 @@
-## A simple react && react-three-fiber addon to test metamask connectivity
+## A simple react && react-three-fiber to test metamask connectivity
 
 ### Demo : [https://threemask.netlify.app](https://threemask.netlify.app)
 
