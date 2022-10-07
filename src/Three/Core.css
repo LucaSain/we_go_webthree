@@ -1,0 +1,13 @@
+.Core-Base{
+    font-family: sans-serif;
+    text-align: center;
+    height: 90vh;
+    width: 100vw;
+    margin-top: 10%;
+    position: absolute;
+}
+.Core-Canvas{
+    z-index: -10;
+    position: absolute;
+    
+}
